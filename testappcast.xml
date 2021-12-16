@@ -4,12 +4,12 @@
         <title>Debt Now App - Appcast</title>
         
         <item>
-            <title>Version 1.0</title>
+            <title>Version 1.0.0</title>
             <description>desc</description>
-            <sparkle:version>1.0</sparkle:version>
-            <sparkle:maximumSystemVersion>1.0</sparkle:maximumSystemVersion>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:maximumSystemVersion>1.0.0</sparkle:maximumSystemVersion>
             <pubDate>Wed, 1 Dec 2021 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.0.0" sparkle:os="android" />
         </item>   
     </channel>
 </rss>
